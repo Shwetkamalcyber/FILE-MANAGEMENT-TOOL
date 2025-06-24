@@ -31,3 +31,4 @@ Overall, this tool is an effective demonstration of how to manipulate files usin
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/2578d194-e85f-4e6b-82b2-663783dab93b)
